@@ -16,4 +16,5 @@
 //strict check
 // === // ye value ko strictly check karta hai// or ye dataType ko bhi check karta hai
 
-console.log("2" === 2); //
+console.log("2" === 2); // jab aap triple equl se check karenge to ye dataType bhi check karega // or ye conversion bhi nahin karega kyuki ye done same hain hi nahin/
+
